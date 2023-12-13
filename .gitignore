@@ -1,0 +1,5 @@
+client/node_modules
+server/node_modules
+
+server/development.env
+server/production.env
